@@ -1,0 +1,53 @@
+.menuwrap,
+.submenu_item {
+    font-size: 1.6vmin;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.2vmin;
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: 600;
+    color: white;
+}
+
+.logo,
+.menu_item {
+    background-color: #033365;
+}
+
+.submenu_item {
+    background-color: white;
+    color: #033365;
+}
+
+.logo_title {
+    font-family: 'Pacifico';
+    text-transform: none;
+    font-size: 5vmin;
+}
+
+.textwrap {
+    font-size: 1.2vmin;
+    text-align: justify;
+    font-family: 'Oxygen', sans-serif;
+    background-color: white;
+    color: black;
+}
+
+h1,
+.markerlabel {
+    font-size: 1.5vmin;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.2vmin;
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: 600;
+    color: black;
+}
+
+.markerlabel {
+    z-index: 5;
+    width: 12vmin;
+    background-color: white;
+    text-align: center;
+    left: 1vmin;
+}

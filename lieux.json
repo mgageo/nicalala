@@ -1,0 +1,1717 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8743896484375,
+          12.436576
+        ]
+      },
+      "properties": {
+        "lieu": "León",
+        "type": "ville",
+        "key": "top_leon",
+        "offsetLng": 0,
+        "offsetLat": "-0.3",
+        "photo": "img/leon.png",
+        "icon": "images/icon_leon.png",
+        "carte": "top10 explorer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.025166,
+          12.5792361
+        ]
+      },
+      "properties": {
+        "lieu": "Flor de cana",
+        "type": "local",
+        "key": "top_flor_de_cana",
+        "offsetLng": "-0.4",
+        "offsetLat": 0,
+        "icon": "images/icon_flordecana.png",
+        "carte": "top10 explorer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.845,
+          12.602
+        ]
+      },
+      "properties": {
+        "lieu": "Telica",
+        "type": "volcan",
+        "key": "top_telica",
+        "offsetLng": 0,
+        "offsetLat": "0.3",
+        "photo": "img/telica.png",
+        "icon": "images/icon_telica.png",
+        "carte": "top10 explorer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.702,
+          12.506
+        ]
+      },
+      "properties": {
+        "lieu": "Cerro Negro",
+        "type": "volcan",
+        "key": "top_cerro_negro",
+        "offsetLng": "0.45",
+        "offsetLat": 0,
+        "photo": "img/cerronegro.png",
+        "icon": "images/icon_cerronegro.png",
+        "carte": "top10 explorer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05224679999999,
+          12.1731783
+        ]
+      },
+      "properties": {
+        "lieu": "Corn Islands",
+        "type": "plage",
+        "key": "top_corn_islands",
+        "icon": "images/icon_corn_islands.png",
+        "carte": "top10 explorer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95,
+          11.933333
+        ]
+      },
+      "properties": {
+        "lieu": "Granada",
+        "type": "ville",
+        "key": "top_granada",
+        "icon": "images/icon_granada.png",
+        "carte": "top10 explorer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1012861,
+          11.1041082
+        ]
+      },
+      "properties": {
+        "lieu": "Indio Maiz",
+        "type": "réserve",
+        "key": "top_indio_maiz",
+        "icon": "images/icon_caiman.png",
+        "carte": "top10 explorer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9606937,
+          11.009394
+        ]
+      },
+      "properties": {
+        "lieu": "Los Guatuzos",
+        "type": "reserve",
+        "key": "top_los_guatuzos",
+        "icon": "images/icon_paresseux.png",
+        "carte": "top10 explorer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58179109999999,
+          11.5141431
+        ]
+      },
+      "properties": {
+        "lieu": "Ometepe",
+        "type": "region",
+        "key": "top_ometepe",
+        "icon": "images/icon_ometepe.png",
+        "carte": "top10 explorer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86,
+          13.1
+        ]
+      },
+      "properties": {
+        "lieu": "Jinotega",
+        "type": "ville",
+        "key": "top_jinotega",
+        "icon": "images/icon_jinotega.png",
+        "carte": "top10 explorer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1,
+          11.966667
+        ]
+      },
+      "properties": {
+        "lieu": "Masaya",
+        "type": "ville",
+        "key": "top_masaya",
+        "icon": "images/icon_masaya.png",
+        "carte": "top10 explorer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8743896484375,
+          12.436576
+        ]
+      },
+      "properties": {
+        "lieu": "León",
+        "type": "ville",
+        "key": "ci_leon",
+        "icon": "symbol/musee.png",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.845,
+          12.602
+        ]
+      },
+      "properties": {
+        "lieu": "Telica",
+        "type": "volcan",
+        "key": "ci_telica",
+        "icon": "symbol/volcan.png",
+        "carte": "volcan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.702,
+          12.506
+        ]
+      },
+      "properties": {
+        "lieu": "Cerro Negro",
+        "type": "volcan",
+        "key": "ci_cerro_negro",
+        "icon": "symbol/volcan.png",
+        "carte": "volcan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9850994,
+          12.2937504
+        ]
+      },
+      "properties": {
+        "lieu": "Little Corn Island",
+        "type": "ville",
+        "key": "ci_little_corn_island",
+        "icon": "symbol/plage.png",
+        "carte": "plage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95,
+          11.933333
+        ]
+      },
+      "properties": {
+        "lieu": "Granada",
+        "type": "ville",
+        "key": "ci_granada",
+        "icon": "symbol/musee.png",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7772474,
+          11.1292451
+        ]
+      },
+      "properties": {
+        "lieu": "San Carlos",
+        "type": "ville",
+        "key": "ci_sancarlos",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.35,
+          13.083333
+        ]
+      },
+      "properties": {
+        "lieu": "Esteli",
+        "type": "ville",
+        "key": "ci_esteli",
+        "icon": "symbol/musee.png",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.251389,
+          12.136389
+        ]
+      },
+      "properties": {
+        "lieu": "Managua",
+        "type": "ville",
+        "key": "ci_managua",
+        "icon": "symbol/musee.png",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.14228949999999,
+          12.8820062
+        ]
+      },
+      "properties": {
+        "lieu": "Chinandega",
+        "type": "ville",
+        "key": "ci_chinandega",
+        "icon": "symbol/musee.png",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1,
+          11.966667
+        ]
+      },
+      "properties": {
+        "lieu": "Masaya",
+        "type": "ville",
+        "key": "ci_masaya",
+        "icon": "symbol/musee.png",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.684578,
+          11.402349
+        ]
+      },
+      "properties": {
+        "lieu": "Rivas",
+        "type": "ville",
+        "key": "ci_rivas",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.483333,
+          13.633333
+        ]
+      },
+      "properties": {
+        "lieu": "Ocotal",
+        "type": "ville",
+        "key": "ci_ocotal",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86,
+          13.1
+        ]
+      },
+      "properties": {
+        "lieu": "Jinotega",
+        "type": "ville",
+        "key": "ci_jinotega",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91666699999999,
+          12.916667
+        ]
+      },
+      "properties": {
+        "lieu": "Matagalpa",
+        "type": "ville",
+        "key": "ci_matagalpa",
+        "icon": "symbol/musee.png",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52002399999999,
+          12.492724
+        ]
+      },
+      "properties": {
+        "lieu": "Boaco",
+        "type": "ville",
+        "key": "ci_boaco",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.36666699999999,
+          12.1
+        ]
+      },
+      "properties": {
+        "lieu": "Juigalpa",
+        "type": "ville",
+        "key": "ci_juigalpa",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2212928,
+          12.1673315
+        ]
+      },
+      "properties": {
+        "lieu": "El Rama",
+        "type": "ville",
+        "key": "ci_el_rama",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6747342,
+          12.3390296
+        ]
+      },
+      "properties": {
+        "lieu": "Pearl Lagoon",
+        "type": "ville",
+        "key": "ci_pearl_lagoon",
+        "icon": "symbol/plage.png",
+        "carte": "plage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7703693,
+          12.0111402
+        ]
+      },
+      "properties": {
+        "lieu": "Bluefields",
+        "type": "ville",
+        "key": "ci_bluefields",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05224679999999,
+          12.1731783
+        ]
+      },
+      "properties": {
+        "lieu": "Big Corn Island",
+        "type": "ville",
+        "key": "ci_big_corn_island",
+        "icon": "symbol/plage.png",
+        "carte": "plage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53999999999999,
+          12.422
+        ]
+      },
+      "properties": {
+        "lieu": "Momotombo",
+        "type": "volcan",
+        "key": "ci_momotombo",
+        "icon": "symbol/volcan.png",
+        "carte": "volcan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58280839999999,
+          11.7520555
+        ]
+      },
+      "properties": {
+        "lieu": "El Hoyo",
+        "type": "volcan",
+        "key": "ci_el_hoyo",
+        "icon": "symbol/volcan.png",
+        "carte": "volcan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.50062679999999,
+          12.9122443
+        ]
+      },
+      "properties": {
+        "lieu": "Cosigüina",
+        "type": "volcan",
+        "key": "ci_cosiguina",
+        "icon": "symbol/volcan.png",
+        "carte": "volcan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0344755,
+          12.803798
+        ]
+      },
+      "properties": {
+        "lieu": "San Cristobal",
+        "type": "volcan",
+        "key": "ci_san_cristobal",
+        "icon": "symbol/volcan.png",
+        "carte": "volcan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.161",
+          "11.984"
+        ]
+      },
+      "properties": {
+        "lieu": "Masaya (volcan)",
+        "type": "volcan",
+        "key": "ci_masaya_volcan",
+        "icon": "symbol/volcan.png",
+        "carte": "volcan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96799999999999,
+          11.826
+        ]
+      },
+      "properties": {
+        "lieu": "Mombacho",
+        "type": "volcan",
+        "key": "ci_mombacho",
+        "icon": "symbol/volcan.png",
+        "carte": "volcan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.515,
+          11.446
+        ]
+      },
+      "properties": {
+        "lieu": "Maderas",
+        "type": "volcan",
+        "key": "ci_maderas",
+        "icon": "symbol/volcan.png",
+        "carte": "volcan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.622721,
+          11.537637
+        ]
+      },
+      "properties": {
+        "lieu": "Concepcion",
+        "type": "volcan",
+        "key": "ci_concepcion",
+        "icon": "symbol/volcan.png",
+        "carte": "volcan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.01691149999999,
+          12.3593385
+        ]
+      },
+      "properties": {
+        "lieu": "Juan Venado",
+        "type": "réserve",
+        "key": "ci_juan_venado",
+        "icon": "symbol/nature.png",
+        "carte": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0559967,
+          13.2379873
+        ]
+      },
+      "properties": {
+        "lieu": "Jaguar",
+        "type": "réserve",
+        "key": "ci_jaguar",
+        "icon": "symbol/nature.png",
+        "carte": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.583333,
+          13.483333
+        ]
+      },
+      "properties": {
+        "lieu": "Somoto",
+        "type": "réserve",
+        "key": "ci_somoto",
+        "icon": "symbol/nature.png",
+        "carte": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.35,
+          12.25
+        ]
+      },
+      "properties": {
+        "lieu": "Chiltepe",
+        "type": "réserve",
+        "key": "ci_chiltepe",
+        "icon": "symbol/nature.png",
+        "carte": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2568084,
+          11.9794977
+        ]
+      },
+      "properties": {
+        "lieu": "Chocoyero - El Brujonature",
+        "type": "réserve",
+        "key": "ci_chocoyero",
+        "icon": "symbol/nature.png",
+        "carte": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8852778,
+          11.8991667
+        ]
+      },
+      "properties": {
+        "lieu": "Las Isletas",
+        "type": "réserve",
+        "key": "ci_las_isletas",
+        "icon": "symbol/nature.png",
+        "carte": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83838569999999,
+          11.7336213
+        ]
+      },
+      "properties": {
+        "lieu": "Zapatera",
+        "type": "réserve",
+        "key": "ci_zapatera",
+        "icon": "symbol/nature.png",
+        "carte": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.340211,
+          12.2448336
+        ]
+      },
+      "properties": {
+        "lieu": "Laguna de Apoyo",
+        "type": "réserve",
+        "key": "ci_laguna_de_apoyo",
+        "icon": "symbol/nature.png",
+        "carte": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6322457,
+          11.4777034
+        ]
+      },
+      "properties": {
+        "lieu": "Charco Verde",
+        "type": "réserve",
+        "key": "ci_charco_verde",
+        "icon": "symbol/nature.png",
+        "carte": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1012861,
+          11.1041082
+        ]
+      },
+      "properties": {
+        "lieu": "Indio Maiz",
+        "type": "réserve",
+        "key": "ci_indio_maiz",
+        "icon": "symbol/nature.png",
+        "carte": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.566898,
+          11.5190997
+        ]
+      },
+      "properties": {
+        "lieu": "Ojo de Agua",
+        "type": "plage",
+        "key": "ci_ojo_de_agua",
+        "icon": "symbol/plage.png",
+        "carte": "plage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02494399999999,
+          12.3674433
+        ]
+      },
+      "properties": {
+        "lieu": "Las Penitas",
+        "type": "plage",
+        "key": "ci_las_penitas",
+        "icon": "symbol/plage.png",
+        "carte": "plage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86666699999999,
+          11.25
+        ]
+      },
+      "properties": {
+        "lieu": "San Juan del Sur",
+        "type": "plage",
+        "key": "ci_san_juan_del_sur",
+        "icon": "symbol/plage.png",
+        "carte": "plage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.025166,
+          12.5792361
+        ]
+      },
+      "properties": {
+        "lieu": "Flor de cana",
+        "type": "local",
+        "key": "ci_flor_de_cana",
+        "carte": "culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.251389,
+          12.136389
+        ]
+      },
+      "properties": {
+        "lieu": "Avion",
+        "type": "transports",
+        "key": "avion_int",
+        "offsetLng": 0,
+        "offsetLat": 0,
+        "icon": "symbol/avion.png",
+        "carte": "arrivee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.684578,
+          11.402349
+        ]
+      },
+      "properties": {
+        "lieu": "Voiture",
+        "type": "transports",
+        "key": "voiture_int",
+        "offsetLng": 0,
+        "offsetLat": 0,
+        "icon": "symbol/voiture.png",
+        "carte": "arrivee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91666699999999,
+          12.916667
+        ]
+      },
+      "properties": {
+        "lieu": "Autocar",
+        "type": "transports",
+        "key": "autocar_int",
+        "offsetLng": 0,
+        "offsetLat": 0,
+        "icon": "symbol/autocar.png",
+        "carte": "arrivee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7772474,
+          11.1292451
+        ]
+      },
+      "properties": {
+        "lieu": "Bateau",
+        "type": "transports",
+        "key": "bateau_int",
+        "offsetLng": 0,
+        "offsetLat": 0,
+        "icon": "symbol/bateau.png",
+        "carte": "arrivee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8743896484375,
+          12.436576
+        ]
+      },
+      "properties": {
+        "lieu": "Taxi",
+        "type": "transports",
+        "key": "taxi",
+        "offsetLng": 0,
+        "offsetLat": 0,
+        "icon": "symbol/taxi.png",
+        "carte": "transports"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95,
+          11.933333
+        ]
+      },
+      "properties": {
+        "lieu": "Voiture",
+        "type": "transports",
+        "key": "voiture",
+        "offsetLng": 0,
+        "offsetLat": 0,
+        "icon": "symbol/voiture.png",
+        "carte": "transports"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91666699999999,
+          12.916667
+        ]
+      },
+      "properties": {
+        "lieu": "Bus",
+        "type": "transports",
+        "key": "bus",
+        "offsetLng": 0,
+        "offsetLat": 0,
+        "icon": "symbol/autocar.png",
+        "carte": "transports"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7772474,
+          11.1292451
+        ]
+      },
+      "properties": {
+        "lieu": "Bateau",
+        "type": "transports",
+        "key": "bateau",
+        "offsetLng": 0,
+        "offsetLat": 0,
+        "icon": "symbol/bateau.png",
+        "carte": "transports"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7703693,
+          12.0111402
+        ]
+      },
+      "properties": {
+        "lieu": "Avion",
+        "type": "transports",
+        "key": "avion",
+        "offsetLng": 0,
+        "offsetLat": 0,
+        "icon": "symbol/avion.png",
+        "carte": "transports"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58179109999999,
+          11.5141431
+        ]
+      },
+      "properties": {
+        "lieu": "Velo",
+        "type": "transports",
+        "key": "velo",
+        "offsetLng": 0,
+        "offsetLat": 0,
+        "icon": "symbol/velo.png",
+        "carte": "transports"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.251389,
+          12.136389
+        ]
+      },
+      "properties": {
+        "lieu": "Managua",
+        "type": "region",
+        "key": "region_managua",
+        "carte": "regions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95,
+          11.933333
+        ]
+      },
+      "properties": {
+        "lieu": "Granada et Masaya",
+        "type": "region",
+        "key": "region_granada",
+        "carte": "regions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8743896484375,
+          12.436576
+        ]
+      },
+      "properties": {
+        "lieu": "León et les Volcans",
+        "type": "region",
+        "key": "region_leon",
+        "carte": "regions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7772474,
+          11.1292451
+        ]
+      },
+      "properties": {
+        "lieu": "Rio San Juan",
+        "type": "region",
+        "key": "region_rio_san_juan",
+        "carte": "regions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58179109999999,
+          11.5141431
+        ]
+      },
+      "properties": {
+        "lieu": "Ometepe",
+        "type": "region",
+        "key": "region_ometepe",
+        "carte": "regions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91666699999999,
+          12.916667
+        ]
+      },
+      "properties": {
+        "lieu": "Nord montagneux",
+        "type": "region",
+        "key": "region_nord",
+        "carte": "regions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6747342,
+          12.3390296
+        ]
+      },
+      "properties": {
+        "lieu": "Caraibes",
+        "type": "region",
+        "key": "region_caraibes",
+        "carte": "regions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86666699999999,
+          11.25
+        ]
+      },
+      "properties": {
+        "lieu": "Plages du Pacifique",
+        "type": "region",
+        "key": "region_pacifique",
+        "carte": "regions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16833299999999,
+          12.141667
+        ]
+      },
+      "properties": {
+        "lieu": "Sandino International Airport. Managua",
+        "type": "airport",
+        "key": "ci_sandino_international_airport_managua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.77249990000001,
+          11.991944
+        ]
+      },
+      "properties": {
+        "lieu": "Bluefields – Airport",
+        "type": "airport",
+        "key": "ci_bluefields_airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05986999999999,
+          12.1740148
+        ]
+      },
+      "properties": {
+        "lieu": "Corn Island – Airport",
+        "type": "airport",
+        "key": "ci_corn_island_airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4086111,
+          13.8897222
+        ]
+      },
+      "properties": {
+        "lieu": "Rosita – Airport",
+        "type": "airport",
+        "key": "ci_rosita_airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.77304199999999,
+          13.7162
+        ]
+      },
+      "properties": {
+        "lieu": "Siuna – Airport",
+        "type": "airport",
+        "key": "ci_siuna_airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3814206,
+          14.0441717
+        ]
+      },
+      "properties": {
+        "lieu": "Puerto Cabezas – Airport",
+        "type": "airport",
+        "key": "ci_puerto_cabezas_airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.76887719999999,
+          11.1353977
+        ]
+      },
+      "properties": {
+        "lieu": "San Carlos - Airport",
+        "type": "airport",
+        "key": "ci_san_carlos_airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.971553,
+          14.737498
+        ]
+      },
+      "properties": {
+        "lieu": "Waspan - Airport",
+        "type": "airport",
+        "key": "waspan_airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.69159719999999,
+          10.9324722
+        ]
+      },
+      "properties": {
+        "lieu": "Rio San Juan",
+        "type": "reserve",
+        "key": "ci_rio_san_juan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9606937,
+          11.009394
+        ]
+      },
+      "properties": {
+        "lieu": "Los Guatuzos",
+        "type": "reserve",
+        "key": "ci_los_guatuzos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.401111,
+          11.017778
+        ]
+      },
+      "properties": {
+        "lieu": "El Castillo",
+        "type": "reserve",
+        "key": "ci_el_castillo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7780836,
+          12.5808126
+        ]
+      },
+      "properties": {
+        "lieu": "San Jacinto",
+        "type": "volcan",
+        "key": "ci_san_jacinto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.61764339999999,
+          12.3991822
+        ]
+      },
+      "properties": {
+        "lieu": "Leon Viejo",
+        "type": "ville",
+        "key": "ci_leon_viejo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58179109999999,
+          11.5141431
+        ]
+      },
+      "properties": {
+        "lieu": "Punta Isla Jesus Maria",
+        "key": "ci_punta_isla_jesus_maria_ometepe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.57793269999999,
+          11.5665356
+        ]
+      },
+      "properties": {
+        "lieu": "Altagracia",
+        "key": "ci_altagracia_ometepe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58179109999999,
+          11.5141431
+        ]
+      },
+      "properties": {
+        "lieu": "Rio Istian",
+        "key": "ci_rio_istian_ometepe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58179109999999,
+          11.5141431
+        ]
+      },
+      "properties": {
+        "lieu": "Cascades",
+        "key": "ci_cascades_ometepe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-85.537984",
+          "11.483705"
+        ]
+      },
+      "properties": {
+        "lieu": "El Porvenir",
+        "key": "ci_el_porvenir_ometepe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51036649999999,
+          11.4825918
+        ]
+      },
+      "properties": {
+        "lieu": "Magdalena",
+        "key": "ci_magdalena_ometepe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58179109999999,
+          11.5141431
+        ]
+      },
+      "properties": {
+        "lieu": "El Ceibo",
+        "key": "ci_el_ceibo_ometepe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56706,
+          11.51884
+        ]
+      },
+      "properties": {
+        "lieu": "Ojo de Agua",
+        "key": "ci_ojo_de_agua_ometepe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1,
+          11.9
+        ]
+      },
+      "properties": {
+        "lieu": "Niquinohomo",
+        "key": "ci_los_pueblos_blancos_niquinohomo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0504111,
+          11.7565106
+        ]
+      },
+      "properties": {
+        "lieu": "Nandaime",
+        "key": "ci_los_pueblos_blancos_nandaime"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0720757,
+          11.9033035
+        ]
+      },
+      "properties": {
+        "lieu": "San Juan de Oriente",
+        "key": "ci_los_pueblos_blancos_san_juan_de_oriente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0504111,
+          11.8759644
+        ]
+      },
+      "properties": {
+        "lieu": "Diriomo",
+        "key": "ci_los_pueblos_blancos_diriomo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.119444,
+          12.004722
+        ]
+      },
+      "properties": {
+        "lieu": "Nindiri",
+        "key": "ci_los_pueblos_blancos_nindiri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1204695,
+          11.926746
+        ]
+      },
+      "properties": {
+        "lieu": "Nandasmo",
+        "key": "ci_los_pueblos_blancos_nandasmo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14999999999999,
+          11.916667
+        ]
+      },
+      "properties": {
+        "lieu": "Masatepe",
+        "key": "ci_los_pueblos_blancos_masatepe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0758979,
+          11.9104731
+        ]
+      },
+      "properties": {
+        "lieu": "Catarina",
+        "key": "ci_los_pueblos_blancos_catarina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5544551,
+          11.5105401
+        ]
+      },
+      "properties": {
+        "lieu": "Playa Santo Domingo",
+        "type": "plage",
+        "key": "ci_playa_santo_dominigo",
+        "icon": "symbol/plage.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4737018,
+          11.044924
+        ]
+      },
+      "properties": {
+        "lieu": "Sabalos",
+        "key": "ci_sabalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3357992,
+          10.9818466
+        ]
+      },
+      "properties": {
+        "lieu": "Refugio Bartola",
+        "key": "ci_refugio_bartola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-84.015799",
+          "10.787780"
+        ]
+      },
+      "properties": {
+        "lieu": "San Francisco",
+        "key": "ci_san_francisco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7345234,
+          10.9462053
+        ]
+      },
+      "properties": {
+        "lieu": "San Ruan del Norte",
+        "key": "ci_san_ruan_del_norte"
+      }
+    }
+  ]
+}
