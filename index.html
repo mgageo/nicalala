@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Nicalala - Partageur d'&eacute;motions</title>
+    <meta name="description" content="Une agence de voyages qui vous fait partir &agrave; la découverte du Nicaragua.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+    <script src="js/markerwithlabel.js"></script>
+    <script src="js/transit.js"></script>
+
+    <!--Feuilles de style communes-->
+    <link rel="stylesheet" href="css/common_font.css">
+    <!--Feuilles de style specifiques aux PCs-->
+    <link rel="stylesheet" href="css/desktop_position.css">
+    <link rel="stylesheet" href="css/desktop_shape.css">
+
+    <!--Charger les polices Google requises pour le site-->
+    <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+
+</head>
+
+<body>
+
+    <!--Conteneur pour la page html-->
+    <div class="pagewrap">
+
+        <!--Conteneur pour la zone contenant le logo et le menu-->
+        <div class="menuwrap">
+
+            <!--Conteneur pour la zone contenant le logo-->
+            <div class="logo">
+                <div class="logo_item_container">
+                    <div class="logo_icon"></div>
+                    <div class="logo_title">Nicalala</div>
+                    <div class="logo_subtitle">Partageur d'émotions</div>
+                </div>
+            </div>
+
+            <!--Conteneur pour la zone contenant le menu-->
+            <div id="menu" class="menu">
+            </div>
+
+            <!--Conteneur pour la zone contenant le sous-menu-->
+            <div class="submenuwrap">
+                <div id="submenu" class="submenu">
+                </div>
+            </div>
+
+        </div>
+
+
+
+        <!--Conteneur pour la zone contenant le texte-->
+        <div class="textwrap">
+            <div id="text" class="text"></div>
+            <!--Conteneur utilisé pour charger tous les textes lors du chargement de la page. Son contenu n'est évidemment pas affiché.-->
+            <div id="alltexts" class="hide"></div>
+        </div>
+
+        <!--Conteneur pour la zone contenant la carte-->
+        <div class="mapwrap">
+            <div id="map" class="map"></div>
+        </div>
+
+    </div>
+
+    <script src="js/nica_gmaps.js"></script>
+    <script src="js/menu.js"></script>
+<script type="text/javascript">
+
+$(document).ready(function() {
+  gmaps_init();
+  gmaps_bounds();
+  gmaps_json();
+  gmaps_events();
+  showHome();
+});
+
+</script>
+</body>
+
+</html>
